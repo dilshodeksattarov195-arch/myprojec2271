@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionftringify",
+        "uuid": 5568492,
+        "checksum": "fzrez9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
